@@ -1,0 +1,14 @@
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.Repositories.deps.json
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.Repositories.dll
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.Repositories.pdb
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.Repositories.csprojAssemblyReference.cache
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.Repositories.AssemblyInfoInputs.cache
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.Repositories.AssemblyInfo.cs
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.Repositories.csproj.CopyComplete
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.Repositories.dll
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.Repositories.pdb
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.dll
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.dll
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.pdb
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.Repositories\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.pdb

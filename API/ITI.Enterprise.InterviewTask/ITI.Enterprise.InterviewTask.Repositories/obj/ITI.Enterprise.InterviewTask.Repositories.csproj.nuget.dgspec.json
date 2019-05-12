@@ -1,0 +1,195 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj",
+        "projectName": "ITI.Enterprise.InterviewTask.DataModel",
+        "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj",
+        "packagesPath": "C:\\Users\\Moamen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Moamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
+                "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj",
+        "projectName": "ITI.Enterprise.InterviewTask.DomainClasses",
+        "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj",
+        "packagesPath": "C:\\Users\\Moamen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Moamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj",
+        "projectName": "ITI.Enterprise.InterviewTask.Repositories",
+        "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Moamen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Moamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj": {
+                "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj"
+              },
+              "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
+                "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

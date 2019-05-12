@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.0.min.js"></script>
+</head>
+
+<body>
+    <form id="form" name="myform">
+        <label for="price">Price</label>
+        <input id="price" name="price" type="text" />
+
+        <label for="name">Name</label>
+        <input id="name" name="name" type="text" />
+
+        <label for="company">CompanyName</label>
+        <input id="company" name="companyname" type="text" />
+
+        <label for="id">id</label>
+        <input id="id" name="price" type="text" />
+
+        <input id="photo" name="photo" type="file" />
+
+        <input id="submit" type="submit" value="Submit">
+        <!-- Fe 7alet el edit b2a hnzwd doul-->
+
+        <!-- <input type="hidden" name="id" value="product.id.masln">
+        <input type="hidden" name="OldPhotoPath" value="product.ImageUrl"> -->
+
+    </form>
+    <script>
+        var submitBtn = document.getElementById("submit");
+        submitBtn.addEventListener("click", function (event) {
+            event.preventDefault();
+            console.log("Iam in");
+            var formData = new FormData($("#form")[0]);
+            jQuery.ajax
+                ({
+                    url: 'https://localhost:44306/api/products/',
+                    type: "POST",
+                    data: formData,
+                    success: function (data) {
+                    },
+                    error: function (data) {
+                        alert('Sorry.');
+                    },
+                    cache: false,
+                    contentType: false,
+                    processData: false
+                });
+        })
+        // submitBtn.addEventListener("click", function () {
+        //     console.log("Iam in");
+        //     var formData = new FormData($("#form")[0]);
+        //     console.log(formData);
+        //     jQuery.ajax
+        //         ({
+        //             url: 'http://localhost:5887/api/products',
+        //             type: "POST",
+        //             data: formData,
+        //             success: function (data) {
+        //             },
+        //             error: function (data) {
+        //                 alert('Sorry.');
+        //             },
+        //             cache: false,
+        //             contentType: false,
+        //             processData: false
+        //         });
+        // })
+
+    </script>
+</body>
+
+</html>

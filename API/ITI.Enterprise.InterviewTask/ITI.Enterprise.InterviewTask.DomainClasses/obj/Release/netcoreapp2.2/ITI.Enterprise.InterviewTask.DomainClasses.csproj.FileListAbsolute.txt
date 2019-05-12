@@ -1,0 +1,9 @@
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\bin\Release\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.deps.json
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\bin\Release\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.dll
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\bin\Release\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.pdb
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Release\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.csprojAssemblyReference.cache
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Release\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.csproj.CoreCompileInputs.cache
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Release\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.AssemblyInfoInputs.cache
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Release\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.AssemblyInfo.cs
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Release\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.dll
+C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Release\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.pdb

@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ITI.Enterprise.InterviewTask.Api</name>
+    </assembly>
+    <members>
+        <member name="T:ITI.Enterprise.InterviewTask.Api.Controllers.AuthController">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.AuthController.#ctor(Microsoft.AspNetCore.Identity.UserManager{ITI.Enterprise.InterviewTask.DomainClasses.User},Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="userManager"></param>
+            <param name="config"></param>
+        </member>
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.AuthController.Register(ITI.Enterprise.InterviewTask.Api.DTO.UserDto)">
+            <summary>
+            Registration method.
+            </summary>
+            <param name="userToRegister">User Object</param>
+            <returns>An ActionResult - Created or BadRequest- depending on the if the user was registered or not if the data is not valid.</returns>
+        </member>
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.AuthController.Login(ITI.Enterprise.InterviewTask.Api.DTO.UserDto)">
+            <summary>
+            Token issuing for registered users.
+            </summary>
+            <param name="user">User Object</param>
+            <returns>An ActionResult - Ok or Unauthorized - depending on if the user is valid or not.</returns>
+        </member>
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.CompaniesController.#ctor(ITI.Enterprise.InterviewTask.Repositories.Repositories.ICompanyRepository,AutoMapper.IMapper)">
+            <summary>
+            
+            </summary>
+            <param name="companyRepository"></param>
+            <param name="mapper"></param>
+        </member>
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.CompaniesController.GetCompanies">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.CompaniesController.PostCompany(ITI.Enterprise.InterviewTask.Api.DTO.CompanyDto)">
+            <summary>
+            
+            </summary>
+            <param name="company"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.ProductsController.#ctor(ITI.Enterprise.InterviewTask.Repositories.Repositories.IProductRepository,ITI.Enterprise.InterviewTask.Repositories.Repositories.ICompanyRepository,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="productRepository"></param>
+            <param name="companyRepository"></param>
+            <param name="environment"></param>
+        </member>
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.ProductsController.GetProducts">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.ProductsController.PostProduct(ITI.Enterprise.InterviewTask.Api.DTO.ProductCreationDto)">
+            <summary>
+            Post Product method is used to make post requests products.
+            </summary>
+            <param name="productDto">Product Object</param>
+            <returns>An ActionResult of type - Ok or BadRequest - depending on the sent product object.</returns>
+            <remarks></remarks>
+        </member>
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.ProductsController.GetProduct(System.Guid)">
+            <summary>
+            Get a product by its id
+            </summary>
+            <param name="id">The id of the product you want to retrieve </param>
+            <returns>An ActionResult of type Ok with product object or NotFound or BadRequest depending on the sent id.</returns>
+        </member>
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.ProductsController.PutProduct(System.Guid,ITI.Enterprise.InterviewTask.Api.DTO.ProductModificationDto)">
+             <summary>
+             Modifies a given product
+             </summary>
+             <param name="id">Product Id through routing</param>
+             <param name="product">The product object you want to modify</param>
+             <returns>An ActionResult of type Ok with the modified product or BadRequest or NotFound depending on the sent object.</returns>
+             <remarks>
+             Sample request\
+             PUT /products/id \
+            {\
+             "id": "4e6a5d54-0d5f-456f-a5dd-02b43fa5b6b9",\
+            "name" : "NewProduct", // The name of the new product\
+            "price" : 2546,\
+            "companyname": "Selected Company Name",\
+            "oldphotopath": "ac29d90f-f2a4-4376-8fa7-f6c1f31cb664_Token.png", // The old ImageUrl of the product\
+            "photo": "Photo Object (Input type=file)"\
+            }
+             </remarks>
+        </member>
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.ProductsController.DeleteProduct(System.Guid)">
+            <summary>
+            Deletes the product that its id was sent through uri.
+            </summary>
+            <param name="id">TProduct id</param>
+            <returns>An ActionResult with type Ok and the delete product or not found if the id was invalid</returns>
+        </member>
+        <member name="T:ITI.Enterprise.InterviewTask.Api.DTO.CompanyDto">
+            <summary>
+            The Company object with Name field.
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.CompanyDto.Name">
+            <summary>
+            The name of the company.
+            </summary>
+        </member>
+        <member name="T:ITI.Enterprise.InterviewTask.Api.DTO.ProductCreationDto">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductCreationDto.Name">
+            <summary>
+               A product for creation with Name, Photo object (Input type="file"), Price and CompanyName fields.
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductCreationDto.CompanyName">
+            <summary>
+            The company name of the product.
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductCreationDto.Photo">
+             <summary>
+            The product photo (Input type="file")
+             </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductCreationDto.Price">
+            <summary>
+            The price of the product.
+            </summary>
+        </member>
+        <member name="T:ITI.Enterprise.InterviewTask.Api.DTO.ProductDto">
+            <summary>
+            A product with Id, Name, ImageUrl, Price and CompanyName fields.
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductDto.Id">
+            <summary>
+            The id of the product.
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductDto.Name">
+            <summary>
+            The name of the product.
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductDto.ImageUrl">
+            <summary>
+            The ImageUrl of the product.
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductDto.Price">
+            <summary>
+            The Price of the product.
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductDto.CompanyName">
+            <summary>
+            The Company Name of the product.
+            </summary>
+        </member>
+        <member name="T:ITI.Enterprise.InterviewTask.Api.DTO.ProductModificationDto">
+            <summary>
+            Product modification 
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductModificationDto.Id">
+            <summary>
+            The id of the product to be modified
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductModificationDto.Photo">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductModificationDto.Name">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductModificationDto.Price">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductModificationDto.CompanyName">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.ProductModificationDto.OldPhotoPath">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:ITI.Enterprise.InterviewTask.Api.DTO.UserDto">
+            <summary>
+            A user with email and password fields for registration and issuing a token.
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.UserDto.Email">
+            <summary>
+            The email of the user.
+            </summary>
+        </member>
+        <member name="P:ITI.Enterprise.InterviewTask.Api.DTO.UserDto.Password">
+            <summary>
+            The password of the user.
+            </summary>
+        </member>
+    </members>
+</doc>
