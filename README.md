@@ -1,6 +1,7 @@
 This project was bootstrapped with ASP.NET Core Web API for the backend development and React Framework for frontend development.
 
-## Installation
+
+## API Installation 
 
 In order to get the project to run you have to follow a few setps:
 
@@ -13,6 +14,10 @@ iii. Run the project through Visual Studio to host it on IIS Express or through 
 iv. Once the project starts nagivate to the hostip/index.html for the documentation. // For example http://62.210.5.62:5000/index.html
 
 v. Follow up the API documentation and you are good to go! 
+
+## Frontend Installation
+
+In order to get the frontend to work, there is a full documentation that can be found [here](https://github.com/AhmedHatem1/react-interview-task.git).
 
 ## Sample Requests
 
