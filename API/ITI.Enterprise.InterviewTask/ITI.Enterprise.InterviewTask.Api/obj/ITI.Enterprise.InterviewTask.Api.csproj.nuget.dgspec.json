@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Api\\ITI.Enterprise.InterviewTask.Api.csproj": {}
+    "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Api\\ITI.Enterprise.InterviewTask.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Api\\ITI.Enterprise.InterviewTask.Api.csproj": {
+    "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Api\\ITI.Enterprise.InterviewTask.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Api\\ITI.Enterprise.InterviewTask.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Api\\ITI.Enterprise.InterviewTask.Api.csproj",
         "projectName": "ITI.Enterprise.InterviewTask.Api",
-        "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Api\\ITI.Enterprise.InterviewTask.Api.csproj",
+        "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Api\\ITI.Enterprise.InterviewTask.Api.csproj",
         "packagesPath": "C:\\Users\\Moamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Api\\obj\\",
+        "outputPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,14 +30,14 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj": {
-                "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj"
+              "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj": {
+                "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj"
               },
-              "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
-                "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj"
+              "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
+                "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj"
               },
-              "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj": {
-                "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj"
+              "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj": {
+    "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj",
+        "projectUniqueName": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj",
         "projectName": "ITI.Enterprise.InterviewTask.DataModel",
-        "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj",
+        "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj",
         "packagesPath": "C:\\Users\\Moamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\obj\\",
+        "outputPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -115,8 +115,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
-                "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj"
+              "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
+                "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
+    "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj",
+        "projectUniqueName": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj",
         "projectName": "ITI.Enterprise.InterviewTask.DomainClasses",
-        "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj",
+        "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj",
         "packagesPath": "C:\\Users\\Moamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\obj\\",
+        "outputPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -217,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj": {
+    "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj",
         "projectName": "ITI.Enterprise.InterviewTask.Repositories",
-        "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj",
+        "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\ITI.Enterprise.InterviewTask.Repositories.csproj",
         "packagesPath": "C:\\Users\\Moamen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\obj\\",
+        "outputPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -243,11 +243,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj": {
-                "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj"
+              "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj": {
+                "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj"
               },
-              "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
-                "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj"
+              "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
+                "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj"
               }
             }
           }

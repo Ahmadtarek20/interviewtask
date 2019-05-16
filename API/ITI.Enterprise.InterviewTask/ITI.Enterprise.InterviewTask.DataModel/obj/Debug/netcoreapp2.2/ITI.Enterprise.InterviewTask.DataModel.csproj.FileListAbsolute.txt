@@ -10,3 +10,15 @@ C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.Intervi
 C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.csproj.CopyComplete
 C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.dll
 C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.pdb
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.deps.json
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.dll
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.pdb
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.dll
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.pdb
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.csprojAssemblyReference.cache
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.AssemblyInfoInputs.cache
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.AssemblyInfo.cs
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.csproj.CopyComplete
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.dll
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DataModel\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DataModel.pdb

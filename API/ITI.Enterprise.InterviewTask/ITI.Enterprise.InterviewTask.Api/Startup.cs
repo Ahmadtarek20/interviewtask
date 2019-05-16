@@ -4,6 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using AutoMapper;
+using ITI.Enterprise.InterviewTask.Api.Extensions;
 using ITI.Enterprise.InterviewTask.DataModel;
 using ITI.Enterprise.InterviewTask.DomainClasses;
 using ITI.Enterprise.InterviewTask.Repositories.Repositories;
@@ -124,7 +125,7 @@ namespace ITI.Enterprise.InterviewTask.Api
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.EnsureDbCreation<AppDbContext>();
             app.UseSwagger();
             app.UseSwaggerUI(setupAction =>
             {

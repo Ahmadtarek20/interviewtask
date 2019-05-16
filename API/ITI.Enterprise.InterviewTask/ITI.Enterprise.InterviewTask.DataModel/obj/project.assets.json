@@ -5681,11 +5681,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj",
+      "projectUniqueName": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj",
       "projectName": "ITI.Enterprise.InterviewTask.DataModel",
-      "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj",
+      "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\ITI.Enterprise.InterviewTask.DataModel.csproj",
       "packagesPath": "C:\\Users\\Moamen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\obj\\",
+      "outputPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DataModel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5704,8 +5704,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
-              "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj"
+            "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj": {
+              "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj"
             }
           }
         }

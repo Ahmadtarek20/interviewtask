@@ -6,3 +6,12 @@ C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.Intervi
 C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.AssemblyInfo.cs
 C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.dll
 C:\Users\Moamen\source\repos\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.pdb
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.deps.json
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.dll
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\bin\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.pdb
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.csprojAssemblyReference.cache
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.csproj.CoreCompileInputs.cache
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.AssemblyInfoInputs.cache
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.AssemblyInfo.cs
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.dll
+C:\Users\Moamen\Desktop\Task\API\ITI.Enterprise.InterviewTask\ITI.Enterprise.InterviewTask.DomainClasses\obj\Debug\netcoreapp2.2\ITI.Enterprise.InterviewTask.DomainClasses.pdb

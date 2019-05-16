@@ -4088,11 +4088,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj",
+      "projectUniqueName": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj",
       "projectName": "ITI.Enterprise.InterviewTask.DomainClasses",
-      "projectPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj",
+      "projectPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\ITI.Enterprise.InterviewTask.DomainClasses.csproj",
       "packagesPath": "C:\\Users\\Moamen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moamen\\source\\repos\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\obj\\",
+      "outputPath": "C:\\Users\\Moamen\\Desktop\\Task\\API\\ITI.Enterprise.InterviewTask\\ITI.Enterprise.InterviewTask.DomainClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
