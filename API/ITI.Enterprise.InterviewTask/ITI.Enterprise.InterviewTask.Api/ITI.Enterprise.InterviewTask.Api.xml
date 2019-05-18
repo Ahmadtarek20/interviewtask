@@ -58,7 +58,7 @@
             <param name="companyRepository"></param>
             <param name="environment"></param>
         </member>
-        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.ProductsController.GetProducts">
+        <member name="M:ITI.Enterprise.InterviewTask.Api.Controllers.ProductsController.GetProducts(System.Int32,System.Int32)">
             <summary>
             
             </summary>

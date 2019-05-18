@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Threading.Tasks;
-using ITI.Enterprise.InterviewTask.DomainClasses;
+﻿using ITI.Enterprise.InterviewTask.DomainClasses;
 
 namespace ITI.Enterprise.InterviewTask.Repositories.Repositories
 {

@@ -49,19 +49,20 @@ namespace ITI.Enterprise.InterviewTask.Api.Controllers
         [ProductsResultFilter]
         [AllowAnonymous]
         [ProducesResponseType(StatusCodes.Status200OK)]
-        public async Task<ActionResult<IEnumerable<Product>>> GetProducts()
+        public async Task<ActionResult<IEnumerable<Product>>> GetProducts(int page = 1, int size = 10)
         {
-            var products = await _productRepository.GetAllAsync();
-            return Ok(products.ToList());
+            var pros = await _productRepository.GetProductsAsync(page, size);
+            return Ok(pros.ToList());
         }
 
-       /// <summary>
-       /// Post Product method is used to make post requests products.
-       /// </summary>
-       /// <param name="productDto">Product Object</param>
-       /// <returns>An ActionResult of type - Ok or BadRequest - depending on the sent product object.</returns>
-       /// <remarks></remarks>
-       [HttpPost]
+
+        /// <summary>
+        /// Post Product method is used to make post requests products.
+        /// </summary>
+        /// <param name="productDto">Product Object</param>
+        /// <returns>An ActionResult of type - Ok or BadRequest - depending on the sent product object.</returns>
+        /// <remarks></remarks>
+        [HttpPost]
        [AllowAnonymous]
         [ProducesResponseType(StatusCodes.Status200OK)]
         [ProductResultFilter]

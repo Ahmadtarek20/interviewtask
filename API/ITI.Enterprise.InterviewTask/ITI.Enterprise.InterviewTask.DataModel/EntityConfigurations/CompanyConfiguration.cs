@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using ITI.Enterprise.InterviewTask.DomainClasses;
+﻿using ITI.Enterprise.InterviewTask.DomainClasses;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 

@@ -1,11 +1,8 @@
-﻿using System.IO;
-using ITI.Enterprise.InterviewTask.DataModel.EntityConfigurations;
+﻿using ITI.Enterprise.InterviewTask.DataModel.EntityConfigurations;
 using ITI.Enterprise.InterviewTask.DataModel.Extensions;
 using ITI.Enterprise.InterviewTask.DomainClasses;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Configuration;
 
 namespace ITI.Enterprise.InterviewTask.DataModel
 {

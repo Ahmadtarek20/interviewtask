@@ -5,7 +5,6 @@ using ITI.Enterprise.InterviewTask.Api.DTO;
 using ITI.Enterprise.InterviewTask.DomainClasses;
 using Microsoft.AspNetCore.Mvc;
 using ITI.Enterprise.InterviewTask.Repositories.Repositories;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 
